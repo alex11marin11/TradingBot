@@ -1,10 +1,1 @@
-
 # TradingBot
-
-# hi
-
-
-
-# hi
-# hi
-
