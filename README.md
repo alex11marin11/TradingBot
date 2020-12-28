@@ -9,5 +9,5 @@
 7. https://www.investopedia.com/articles/active-trading/090415/only-take-trade-if-it-passes-5step-test.asp
 8. https://github.com/RomelTorres/alpha_vantage 
 
-# API key
+# Alex API key
 Here is your API key: ZFIKJBBBDIY4HL1B
