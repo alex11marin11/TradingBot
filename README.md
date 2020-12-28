@@ -7,3 +7,7 @@
 5. https://pypi.org/project/yahoo-finance/ 
 6. https://www.investopedia.com/articles/trading/06/daytradingretail.asp
 7. https://www.investopedia.com/articles/active-trading/090415/only-take-trade-if-it-passes-5step-test.asp
+8. https://github.com/RomelTorres/alpha_vantage 
+
+# API key
+Here is your API key: ZFIKJBBBDIY4HL1B
